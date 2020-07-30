@@ -6,6 +6,9 @@ Video Calling Application developed using flutter
 - Join using Room Codes 👽
 - One room can accomodate upto 4 persons
 
+## Setting Up
+
+Rename the .env-default to .env and dd your Agora APP ID into it
 
 ## Running the Project
 
