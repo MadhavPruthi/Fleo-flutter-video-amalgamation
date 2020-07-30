@@ -4,6 +4,7 @@ Video Calling Application developed using flutter
 
 - Light and Dark Modes 👁
 - Join using Room Codes 👽
+- One room can accomodate upto 4 persons
 
 
 ## Running the Project
