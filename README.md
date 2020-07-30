@@ -1,4 +1,4 @@
-# Fleo
+# Fleo 📸
 
 Video Calling Application developed using flutter
 
