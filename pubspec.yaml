@@ -45,5 +45,6 @@ flutter:
   assets:
     - google_fonts/
     - .env
+    
 
 

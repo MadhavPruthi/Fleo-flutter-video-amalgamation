@@ -2,7 +2,7 @@ import 'package:fleo/UI/chat/video_chat.dart';
 import 'package:fleo/UI/global/theme/app_themes.dart';
 import 'package:fleo/UI/global/theme/bloc/theme_bloc.dart';
 import 'package:fleo/UI/utils/media_queries.dart';
-import 'file:///D:/Projects/fleo/lib/services/services.dart';
+import 'package:fleo/services/services.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:toast/toast.dart';
