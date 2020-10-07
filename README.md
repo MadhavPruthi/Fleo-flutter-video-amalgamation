@@ -9,7 +9,7 @@ Video Calling Application developed using flutter
 
 ## Setting Up
 
-Add your Agora APP ID in .env 
+Add your Agora APP ID in .env-default and rename this file to .env
 
 ## Running the Project
 
